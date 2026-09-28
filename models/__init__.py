@@ -1,0 +1,1 @@
+"""Entidades del sistema de biblioteca."""
